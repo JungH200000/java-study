@@ -17,6 +17,7 @@ public class OperatorAdd2 {
     b = a++; // a의 현재 값을 b에 먼저 대입하고, 그 후 a 값을 증가
     System.out.println("a = " + a + ", b = " + b);
 
+
     ++a;
     System.out.println("a = " + a);
     a++;
