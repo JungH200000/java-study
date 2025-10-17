@@ -1,4 +1,4 @@
-package variable.ex;
+package java01_start.variable.ex;
 
 public class VarEx2Answer {
   public static void main(String[] args) {

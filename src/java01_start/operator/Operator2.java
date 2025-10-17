@@ -1,4 +1,4 @@
-package operator;
+package java01_start.operator;
 
 public class Operator2 {
   public static void main(String[] args) {

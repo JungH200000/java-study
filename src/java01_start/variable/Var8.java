@@ -1,4 +1,4 @@
-package variable;
+package java01_start.variable;
 
 public class Var8 {
   public static void main(String[] args) {
