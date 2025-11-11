@@ -18,7 +18,7 @@ public class ScannerEx3 {
 
     int totalPrice = foodPrice * foodQuantity;
 
-    System.out.println(foodName + " " + foodQuantity + "개를 주문하셨습니다. 총 가격은 " + totalPrice + "원 입니다.");
+    System.out.println(foodName + " " + foodQuantity + "개를 주문하셨습니다. 총 가격은 " + totalPrice + "원입니다.");
 
   }
 }
