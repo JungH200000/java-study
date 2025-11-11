@@ -9,7 +9,7 @@ public class ScannerEx4 {
 
     System.out.print("구구단의 단 수를 입력해주세요: ");
     int n = input.nextInt();
-    System.out.print(n + "단의 구구단: ");
+    System.out.print(n + " 단의 구구단: ");
     for (int i = 0; i <=9; i++) {
       System.out.println(n + " x " + i + " = " + n * i);
     }
