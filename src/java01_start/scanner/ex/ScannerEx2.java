@@ -18,7 +18,7 @@ public class ScannerEx2 {
 //    }
     String status = (number % 2 == 0) ? "짝수"  : "홀수";
 
-      System.out.println("입력한 숫자 " + number + "는 " + status + "입니다.");
+    System.out.println("입력한 숫자 " + number + "는 " + status + "입니다.");
 
   }
 }
