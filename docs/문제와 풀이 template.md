@@ -4,36 +4,36 @@
 
 ### 실행 결과 예시:
 
-```terminal
+```terminaloutput
 
 ```
 
-# 문제와 풀이
+---
 
 ##  (``)
 
 ### 실행 결과 예시:
 
-```terminal
+```terminaloutput
 
 ```
 
-# 문제와 풀이
+---
 
 ##  (``)
 
 ### 실행 결과 예시:
 
-```terminal
+```terminaloutput
 
 ```
 
-# 문제와 풀이
+---
 
 ##  (``)
 
 ### 실행 결과 예시:
 
-```terminal
+```terminaloutput
 
 ```
