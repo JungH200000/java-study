@@ -12,8 +12,26 @@ Java 학습 내용 정리 Repository 입니다.
 ### 관련 링크
 
 - Code
-  - [java01-start](./java01-start)
+  - [java01-start](./src/java01-start)
 - Docs
   - [Java01-Start](./docs/Java01-Start)
 
 ---
+
+## 2. 실전 Java
+
+- Java 객체 지향의 핵심 개념 학습
+
+### 관련 링크
+
+- Code
+    - [java02-basic](./src/java02_basic)
+- Docs
+    - [Java02-basic](./docs/Java02-Basic)
+
+---
+
+## 참고 자료 및 도구
+
+- 학습 자료: [김영한의 실전 자바](https://www.inflearn.com/roadmaps/744)
+- 내용 개선: [ChatGPT](https://chatgpt.com/)
